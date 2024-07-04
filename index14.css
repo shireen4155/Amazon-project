@@ -1,0 +1,79 @@
+body{
+    background-color: white;
+}
+.outter-box{
+    /* background-color: white; */
+    height: 392px;
+    width: 369px;
+    text-align: center;
+    margin: auto;
+    /* display: flex;
+    flex-direction: center; */
+    align-content: center;
+    border-radius: 5cm;
+}
+img{
+    margin-bottom: 5px;
+}
+#SI{
+    margin-left: -265px;
+}
+#em{
+    margin-left: -120px;
+    line-height: 0;
+    font-weight: bold; 
+}
+#sign-in{
+    height:3vh;
+    width:19vw ;
+    border-radius: 5px;
+    margin-left: -30px;
+}
+#button{
+    background-color: yellow;
+    margin-top: 2vh;
+    height: 4vh;
+    width: 20vw;
+    border-radius: 7px;
+    margin-left: -30px;
+}
+.condition_use{
+    text-align: start;
+}
+#check{
+    margin-left: -258px;
+    /* line-height: 0; */
+}
+#log{
+    font-size: 0.85rem;
+    text-align: left;
+}
+#b{
+    margin-left: -235px;
+    font-weight: bold;
+    line-height: 0;
+}
+#h{
+    margin-left: -180px; 
+}
+.border{
+    border: 2px solid rgb(228, 223, 223);
+    padding: 10px;
+}
+.ten{
+    text-align: center;
+    color: grey;
+}
+#but{
+    height: 3vh;
+    width: 20vw;
+    border-radius: 5px;
+    background-color: white;
+}
+.gap{
+    display: flex;
+}
+.panel{
+    padding-top: 0px;
+    color: grey;
+}
